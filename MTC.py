@@ -430,11 +430,8 @@ class MOONTON:
             )+'\n'
           )
           self.wrong_password
-        ) + len(
           self.limit_login
-        ) + len(
           self.wrong_email
-        ) + len(
         self.loop+=1
         print(
           end='\r[*] Checked: %s/%s LIVE: %s - DIEE: %s '%(
