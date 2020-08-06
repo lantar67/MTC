@@ -259,13 +259,6 @@ class MOONTON:
           )
         )+' - saved: limitLogin.txt'
       )
-      print(
-        '[#] UNKNOWN: '+str(
-          len(
-            self.unknown
-          )
-        )+' - saved: unknown.txt'
-      )
       exit(
       )
     else: print(
